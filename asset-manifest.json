@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cartrack/static/css/main.718dce8a.chunk.css",
+    "main.js": "/cartrack/static/js/main.ad0cd13d.chunk.js",
+    "main.js.map": "/cartrack/static/js/main.ad0cd13d.chunk.js.map",
+    "runtime-main.js": "/cartrack/static/js/runtime-main.86dc1ae5.js",
+    "runtime-main.js.map": "/cartrack/static/js/runtime-main.86dc1ae5.js.map",
+    "static/js/2.7228dc75.chunk.js": "/cartrack/static/js/2.7228dc75.chunk.js",
+    "static/js/2.7228dc75.chunk.js.map": "/cartrack/static/js/2.7228dc75.chunk.js.map",
+    "static/js/3.18559486.chunk.js": "/cartrack/static/js/3.18559486.chunk.js",
+    "static/js/3.18559486.chunk.js.map": "/cartrack/static/js/3.18559486.chunk.js.map",
+    "index.html": "/cartrack/index.html",
+    "static/css/main.718dce8a.chunk.css.map": "/cartrack/static/css/main.718dce8a.chunk.css.map",
+    "static/js/2.7228dc75.chunk.js.LICENSE.txt": "/cartrack/static/js/2.7228dc75.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/cartrack/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86dc1ae5.js",
+    "static/js/2.7228dc75.chunk.js",
+    "static/css/main.718dce8a.chunk.css",
+    "static/js/main.ad0cd13d.chunk.js"
+  ]
+}
